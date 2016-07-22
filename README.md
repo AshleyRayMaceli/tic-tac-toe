@@ -1,3 +1,5 @@
+![Tic-Tac-TOE Game](tictactoe.png)
+
 # _Tic-Tac-TOE_
 
 #### _A webpage centered around the interactive game of Tic-Tac-Toe._
@@ -7,10 +9,6 @@
 ## Description
 
 _A webpage with an interactive game of Tic-Tac-Toe for two users. Accepts input from users via dropdown menu and assigns player marks accordingly. Utilizes JavaScript objects and prototypes to separate business and user interface logic._
-
-## Setup/Installation Requirements
-
-* _Viewing the page is easily accomplished by opening the index.html file in any internet browser. _
 
 ## Known Bugs
 
@@ -26,12 +24,11 @@ _HTML, CSS, Bootstrap, JavaScript, jQuery_
 
 ##GitHub Pages Link
 
-_http://adamcraig.github.io/tic-tac-toe_
-_http://ashleyraymaceli.github.io/tic-tac-toe_
+http://ashleyraymaceli.github.io/tic-tac-toe
 
 ### License
 
-_The MIT License (MIT)
+The MIT License (MIT)
 
 Copyright (c) [2016] [Adam Craig & Ashley Maceli]
 
@@ -51,4 +48,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE._
+SOFTWARE.
